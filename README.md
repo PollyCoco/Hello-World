@@ -18,3 +18,7 @@ My first GitHub repository
 
 - Baseball
 - Football
+- 
+## Favorite animals
+
+- Gorilla
